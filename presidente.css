@@ -1,0 +1,21 @@
+div.foto {
+  float: left;
+}
+
+.foto img {
+	border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+
+div.info {float: left;}
+
+div.nome {float: left;}
+
+div.votos {float: right;}
+
+div.titulo h2 {float: right;}
+
+div.barra {clear:both;}
+
