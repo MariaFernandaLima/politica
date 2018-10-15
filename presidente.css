@@ -13,14 +13,15 @@ div.info {float: left;}
 
 div.nome {float: left;}
 
-div.votos {float: left;}
+div.votos {float: right;}
 
 div.titulo h2 {float: right;}
 
 div.barra {clear:both;}
 
-nav.h3 {float: right;
-color:white;}
+nav.h2 {text-align: center;}
 
-nav.h2 {text-align: center;
-color: white;}
+img{height: 40px;
+width: 50px;}
+
+nav{background-color: #8B0000;}
