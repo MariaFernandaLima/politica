@@ -13,9 +13,14 @@ div.info {float: left;}
 
 div.nome {float: left;}
 
-div.votos {float: right;}
+div.votos {float: left;}
 
 div.titulo h2 {float: right;}
 
 div.barra {clear:both;}
 
+nav.h3 {float: right;
+color:white;}
+
+nav.h2 {text-align: center;
+color: white;}
